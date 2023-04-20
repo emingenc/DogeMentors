@@ -1,4 +1,4 @@
-<script lang="ts" setup>
+<script setup>
 const { x: mouseX, y: mouseY } = useMouse()
 const { width, height } = useWindowSize()
 const eye = ref(null)
@@ -72,7 +72,7 @@ throttledWatch(
 
 <style>
 .eye {
-	height: 17rem;
+	height: 13rem;
 }
 
 #eye__bg {
