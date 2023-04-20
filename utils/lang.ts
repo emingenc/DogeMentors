@@ -31,10 +31,10 @@ export function LanguageManager() {
     try {
       const foundLang = window
         ? window.navigator.language.substring(0, 2)
-        : 'en'
-      return availableLocales[foundLang] ? foundLang : 'en'
+        : 'tr'
+      return availableLocales[foundLang] ? foundLang : 'tr'
     } catch (error) {
-      return 'en'
+      return 'tr'
     }
   }
   const getUserLocale = (): string =>
