@@ -1,0 +1,6 @@
+.nuxt
+.husky
+app
+node_modules
+
+

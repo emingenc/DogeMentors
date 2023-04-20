@@ -1,0 +1,15 @@
+components:
+  language_switcher:
+    change_language: change language
+  theme_switcher:
+    theme: theme
+    change_theme: change theme
+pages:
+  index:
+    title: Doge Mentors
+  landing:
+    title: Doge Mentors:[]Unlock your coding potential[]with the help of expert mentors
+    getStarted: Get Started
+  404:
+    title: page not found
+  

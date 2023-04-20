@@ -1,0 +1,16 @@
+components:
+  language_switcher:
+    change_language: dili değiştir
+  theme_switcher:
+    theme: tema
+    change_theme: temayı değiştir
+pages:
+  '404':
+    title: sayfa bulunamadı
+  index:
+    title: doge mentorları
+  landing:
+    title: >-
+      Doge Mentors:[]Uzman danışmanların yardımıyla[]Kodlama
+      potansiyelinizi ortaya çıkarın[]
+    getStarted: Hemen BAŞLA!
