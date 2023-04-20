@@ -56,5 +56,9 @@ pages:
         continuous_learning:
           title: 9. Continuous Learning
           description: Receive encouragement to continue learning and expanding your skill set even after completing the course.
+    call_to_action:
+      title: Start Your Coding Journey Today
+      description: Join DogeMentors and get the support you need to succeed in your programming career.
+      cta_text: Join DogeMentors Today
   404:
     title: page not found

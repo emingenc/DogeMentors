@@ -31,6 +31,9 @@ definePageMeta({
       <PageSection >
         <LandingMentorSupport />
       </PageSection>
+      <PageSection >
+        <LandingCallToAction />
+      </PageSection>
     </PageBody>
   </PageWrapper>
 </template>

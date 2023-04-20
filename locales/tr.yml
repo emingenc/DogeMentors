@@ -56,5 +56,9 @@ pages:
         continuous_learning:
           title: 9. Sürekli Öğrenme
           description: Kursu tamamladıktan sonra bile beceri setinizi genişletmeye devam etmek ve öğrenmeye devam etmek için teşvik alın.
+    call_to_action:
+      title: Kodlama Yolculuğunuza Bugün Başlayın
+      description: DogeMentors'a katılın ve programlama kariyerinizde başarılı olmak için ihtiyaç duyduğunuz desteği alın.
+      cta_text: Bugün DogeMentors'a Katılın
   404:
     title: sayfa bulunamadı
