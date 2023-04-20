@@ -17,19 +17,19 @@ definePageMeta({
 
     <PageBody class="flex-1 flex flex-col">
       <PageSection class="flex-1 flex items-center justify-center">
-        <Hero />
+        <LandingHero />
       </PageSection>
       <PageSection class="">
-        <Features />
+        <LandingFeatures />
       </PageSection>
       <PageSection >
-        <HowItWorks />
+        <LandingHowItWorks />
       </PageSection>
       <PageSection >
-        <MenteeWorkflow />
+        <LandingMenteeWorkflow />
       </PageSection>
       <PageSection >
-        <MentorSupport />
+        <LandingMentorSupport />
       </PageSection>
     </PageBody>
   </PageWrapper>
