@@ -32,5 +32,17 @@ pages:
         start_learning:
           title: 3. Start Learning
           description: Follow the course material and work on projects with guidance from your mentor.
+    mentee_workflow:
+      title: Mentee Workflow
+      steps:
+        weekly_updates:
+          title: 4. Weekly Updates
+          description: Participate in weekly update meetings to discuss progress, ask questions, and practice professional communication.
+        collaborate:
+          title: 5. Collaborate
+          description: Collaborate with your mentor using Git and GitHub, learning essential commands and workflows.
+        code_reviews:
+          title: 6. Code Reviews
+          description: Receive regular code reviews and constructive feedback from your mentor to improve your coding skills.
   404:
     title: page not found

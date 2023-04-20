@@ -13,7 +13,7 @@ const trackProgressDescription = computed(() => t('pages.landing.features.track_
 </script>
 
 <template>
-  <section class="h-screen flex flex-col justify-center">
+  <section class="flex flex-col justify-center py-55">
     <div class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
       <div class="text-center">
         <IconMdi:lightbulb-outline class="w-24 h-auto mx-auto mb-4" />

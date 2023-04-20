@@ -32,5 +32,17 @@ pages:
         start_learning:
           title: 3. Öğrenmeye Başla
           description: Mentorunuzun rehberliğinde ders materyallerini takip edin ve projeler üzerinde çalışın.
+    mentee_workflow:
+      title: Mentee İş Akışı
+      steps:
+        weekly_updates:
+          title: 4. Haftalık Güncellemeler
+          description: İlerlemeyi tartışmak, sorular sormak ve profesyonel iletişim pratiği yapmak için haftalık güncelleme toplantılarına katılın.
+        collaborate:
+          title: 5. İş Birliği
+          description: Mentorunuzla Git ve GitHub kullanarak işbirliği yapın, temel komutları ve iş akışlarını öğrenin.
+        code_reviews:
+          title: 6. Kod İncelemeleri
+          description: Mentorunuzdan düzenli kod incelemeleri ve yapıcı geri bildirimler alarak kodlama becerilerinizi geliştirin.
   404:
     title: sayfa bulunamadı

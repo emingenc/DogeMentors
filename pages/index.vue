@@ -25,6 +25,9 @@ definePageMeta({
       <PageSection >
         <HowItWorks />
       </PageSection>
+      <PageSection >
+        <MenteeWorkflow />
+      </PageSection>
     </PageBody>
   </PageWrapper>
 </template>
