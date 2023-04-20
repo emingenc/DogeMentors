@@ -10,6 +10,13 @@ pages:
   landing:
     title: Doge Mentorlar:[]Kodlama potansiyelini[]uzman mentorlar yardımıyla açığa çıkar
     getStarted: Başla
+    nav:
+      mentorship-steps:
+        text: Mentorlük Adımları
+        to: "#mentorship-steps"
+      join:
+        text: Başla
+        to: "https://emingenc.github.io/"
     features:
       personalized_mentorship:
         title: Kişiye Özel Mentorluk

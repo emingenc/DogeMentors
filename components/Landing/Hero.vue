@@ -8,6 +8,7 @@ definePageMeta({
 })
 
 // vars
+const ctaLink = computed(() => t('pages.landing.nav.join.to'));
 const titlesText = computed<string[]>(() => t('pages.landing.title').split('[]'))
 const getStarted = computed(() => t('pages.landing.getStarted'))
 const leadingsText = computed(() => [
@@ -56,7 +57,7 @@ const leadingsText = computed(() => [
               size="lg"
               :text="getStarted"
               class="font-extrabold"
-              href="https://v3.nuxtjs.org"
+              :href="ctaLink"
             />
           </div>
         </div>

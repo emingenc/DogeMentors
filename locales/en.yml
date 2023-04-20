@@ -10,6 +10,14 @@ pages:
   landing:
     title: Doge Mentors:[]Unlock your coding potential[]with the help of expert mentors
     getStarted: Get Started
+    nav:
+      mentorship-steps:
+        text: Mentorship Steps
+        to: "#mentorship-steps"
+      join:
+        text: Join
+        to: "https://emingenc.github.io/"
+      
     features:
       personalized_mentorship:
         title: Personalized Mentorship

@@ -16,22 +16,16 @@ definePageMeta({
     <div class="absolute bottom-0 right-0 triangle-shape"></div>
 
     <PageBody class="flex-1 flex flex-col">
-      <PageSection class="flex-1 flex items-center justify-center">
+      <PageSection class="flex-1 flex items-center justify-center" id="hero">
         <LandingHero />
       </PageSection>
-      <PageSection class="">
+      <PageSection id="features">
         <LandingFeatures />
       </PageSection>
-      <PageSection >
+      <PageSection id="mentorship-steps">
         <LandingHowItWorks />
-      </PageSection>
-      <PageSection >
         <LandingMenteeWorkflow />
-      </PageSection>
-      <PageSection >
         <LandingMentorSupport />
-      </PageSection>
-      <PageSection >
         <LandingCallToAction />
       </PageSection>
     </PageBody>
