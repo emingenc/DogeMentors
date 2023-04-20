@@ -16,7 +16,7 @@ pages:
         to: "#mentorship-steps"
       join:
         text: Başla
-        to: "https://emingenc.github.io/"
+        to: "https://bit.ly/dogementorsform"
     features:
       personalized_mentorship:
         title: Kişiye Özel Mentorluk
