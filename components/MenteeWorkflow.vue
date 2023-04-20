@@ -1,5 +1,5 @@
 <template>
-    <section class="mentee-workflow py-12">
+    <section class="mentee-workflow py-3">
       <h2 class="section-title text-3xl font-semibold text-center mb-10">{{ t('pages.landing.mentee_workflow.title') }}</h2>
       <div class="steps-container grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="step text-center">
