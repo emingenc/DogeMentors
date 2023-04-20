@@ -10,6 +10,15 @@ pages:
   landing:
     title: Doge Mentors:[]Unlock your coding potential[]with the help of expert mentors
     getStarted: Get Started
+    features:
+      personalized_mentorship:
+        title: Personalized Mentorship
+        description: Get tailored guidance and support from experienced developers to help you reach your goals.
+      supportive_community:
+        title: Supportive Community
+        description: Join a community of motivated learners, share your progress, and learn from each other's experiences.
+      track_progress:
+        title: Track Your Progress
+        description: Stay accountable and measure your improvement with structured goals and milestones.
   404:
     title: page not found
-  

@@ -44,7 +44,7 @@ const leadingsText = computed(() => [
               }; --end-color: ${item.endColor}; --animation-name: anim-fg-${
                 i + 1
               }`"
-              class="animated-text-bg drop-shadow-xl text-3xl  2xl:text-9xl block font-black "
+              class="animated-text-bg drop-shadow-xl text-5xl  2xl:text-9xl block font-black "
             >
               <span class="animated-text-fg">{{ item.text }}</span>
             </span>
@@ -60,13 +60,13 @@ const leadingsText = computed(() => [
             />
           </div>
         </div>
-        <div class="hidden md:flex md:w-5/8 justify-center items-end relative">
+        <div class="hidden md:flex md:w-5/9 justify-center items-end relative">
           <DogeProgress class="absolute -top-64 -right-0" />
           
         </div>
 </template>
 
-<style scoped lang="scss">
+<style  lang="scss">
 @import '../assets/sass/variables';
 
 @keyframes anim-fg-1 {
