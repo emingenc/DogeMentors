@@ -20,5 +20,17 @@ pages:
       track_progress:
         title: İlerlemeni İzle
         description: Hedefler ve kilometre taşları ile hesap verebilirliğinizi sağlayın ve iyileşmenizi ölçün.
+    how_it_works:
+      title: Nasıl Çalışır
+      steps:
+        sign_up:
+          title: 1. Kaydol
+          description: Programımıza öğrenci olarak kaydolmak için formu doldurun.
+        get_matched:
+          title: 2. Eşleşme
+          description: Hedeflerinize ve ilgi alanlarınıza uygun deneyimli bir mentor ile sizi eşleştireceğiz.
+        start_learning:
+          title: 3. Öğrenmeye Başla
+          description: Mentorunuzun rehberliğinde ders materyallerini takip edin ve projeler üzerinde çalışın.
   404:
     title: sayfa bulunamadı

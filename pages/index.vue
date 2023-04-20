@@ -19,8 +19,11 @@ definePageMeta({
       <PageSection class="flex-1 flex items-center justify-center">
         <Hero />
       </PageSection>
-      <PageSection class="flex-1 flex items-center justify-center">
+      <PageSection class="">
         <Features />
+      </PageSection>
+      <PageSection >
+        <HowItWorks />
       </PageSection>
     </PageBody>
   </PageWrapper>

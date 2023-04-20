@@ -20,5 +20,17 @@ pages:
       track_progress:
         title: Track Your Progress
         description: Stay accountable and measure your improvement with structured goals and milestones.
+    how_it_works:
+      title: How It Works
+      steps:
+        sign_up:
+          title: 1. Sign Up
+          description: Fill out the form to register as a mentee in our program.
+        get_matched:
+          title: 2. Get Matched
+          description: We will match you with an experienced mentor who aligns with your goals and interests.
+        start_learning:
+          title: 3. Start Learning
+          description: Follow the course material and work on projects with guidance from your mentor.
   404:
     title: page not found
