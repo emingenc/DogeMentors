@@ -44,5 +44,17 @@ pages:
         code_reviews:
           title: 6. Kod İncelemeleri
           description: Mentorunuzdan düzenli kod incelemeleri ve yapıcı geri bildirimler alarak kodlama becerilerinizi geliştirin.
+    mentor_support:
+      title: Mentor Desteği
+      steps:
+        career_guidance:
+          title: 7. Kariyer Rehberliği
+          description: Deneyimli profesyonellerden programlama iş piyasası, ağ kurma ve mülakat hazırlığı hakkında bilgi edinin.
+        resume_cv_assistance:
+          title: 8. Özgeçmiş ve CV Yardımı
+          description: Becerilerinizi, deneyiminizi ve tamamlanan projelerinizi vurgulayarak, mentorunuzun yardımıyla etkileyici bir CV oluşturun.
+        continuous_learning:
+          title: 9. Sürekli Öğrenme
+          description: Kursu tamamladıktan sonra bile beceri setinizi genişletmeye devam etmek ve öğrenmeye devam etmek için teşvik alın.
   404:
     title: sayfa bulunamadı

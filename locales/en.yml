@@ -44,5 +44,17 @@ pages:
         code_reviews:
           title: 6. Code Reviews
           description: Receive regular code reviews and constructive feedback from your mentor to improve your coding skills.
+    mentor_support:
+      title: Mentor Support
+      steps:
+        career_guidance:
+          title: 7. Career Guidance
+          description: Get insights on the programming job market, networking, and interview preparation from experienced professionals.
+        resume_cv_assistance:
+          title: 8. Resume & CV Assistance
+          description: Craft a compelling CV with the help of your mentor, highlighting your skills, experience, and completed projects.
+        continuous_learning:
+          title: 9. Continuous Learning
+          description: Receive encouragement to continue learning and expanding your skill set even after completing the course.
   404:
     title: page not found
