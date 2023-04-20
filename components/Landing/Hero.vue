@@ -45,7 +45,7 @@ const leadingsText = computed(() => [
               }; --end-color: ${item.endColor}; --animation-name: anim-fg-${
                 i + 1
               }`"
-              class="animated-text-bg drop-shadow-xl md:text-3xl  2xl:text-5xl block font-black "
+              class="animated-text-bg drop-shadow-xl text-3xl md:text-4xl  2xl:text-5xl block font-black "
             >
               <span class="animated-text-fg">{{ item.text }}</span>
             </span>
