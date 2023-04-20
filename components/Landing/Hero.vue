@@ -36,7 +36,7 @@ const leadingsText = computed(() => [
 </script>
 <template>
      <div class="flex-1 md:w-4/9 flex flex-col z-10" >
-          <h1 class="text-center md:text-left mt-4">
+          <h3 class="text-center md:text-left mt-6  2xl:text-5xl">
             <span
               v-for="(item, i) in leadingsText"
               :key="i"
@@ -45,11 +45,11 @@ const leadingsText = computed(() => [
               }; --end-color: ${item.endColor}; --animation-name: anim-fg-${
                 i + 1
               }`"
-              class="animated-text-bg drop-shadow-xl text-5xl  2xl:text-5xl block font-black "
+              class="animated-text-bg drop-shadow-xl md:text-3xl  2xl:text-5xl block font-black "
             >
               <span class="animated-text-fg">{{ item.text }}</span>
             </span>
-          </h1>
+          </h3>
           <div
             class="flex space-x-4 ml-4 mt-10 justify-center md:justify-start"
           >
