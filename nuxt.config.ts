@@ -66,9 +66,9 @@ export default defineNuxtConfig({
   intlify: {
     localeDir: 'locales',
     vueI18n: {
-      locale: 'en',
+      locale: 'tr',
       fallbackLocale: 'en',
-      availableLocales: ['en', 'id', 'ja', 'ko'],
+      availableLocales: ['en', 'tr'],
     },
   },
 
